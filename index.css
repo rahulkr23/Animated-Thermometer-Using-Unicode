@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to bottom left, #434343 40%, #000000 100%);
+    height: 70vh;
+}
+.outerDiv{
+    color: aqua;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 40vh;
+}
+#temp{
+    font-size: 10rem;
+}
